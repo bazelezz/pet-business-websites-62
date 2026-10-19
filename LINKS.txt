@@ -4,433 +4,433 @@
 1. L.V. Grooming — Москва / Груминг
 Карта: https://2gis.ru/moscow/firm/70000001061167345
 Текущая страница: https://dikidi.ru/720789
-Новый сайт: ./sites/pet-msk-01-l-v-grooming/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-01-l-v-grooming/
 RU: Авторская иллюстрация, наглядный атлас шерсти и отдельная страница подготовки: клиент знакомится со студией до перехода в DIKIDI.
 EN: Original illustration, an interactive coat atlas and a dedicated preparation page introduce the studio before the DIKIDI booking step.
 
 2. ЗооСтиль — Москва / Груминг
 Карта: https://2gis.ru/moscow/firm/70000001066746511
 Текущая страница: https://vk.com/svetik_grumer
-Новый сайт: ./sites/pet-msk-02-zoostil/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-02-zoostil/
 RU: Выразительная типографика и цельная презентация студии: уход, подготовка и контакт собраны вокруг одного понятного сценария.
 EN: Distinctive typography and a coherent studio presentation bring care, preparation and contact into one clear visitor journey.
 
 3. ФилДус — Москва / Груминг
 Карта: https://yandex.ru/maps/org/fildus/61855783950/
 Текущая страница: https://dikidi.net/1428424
-Новый сайт: ./sites/pet-msk-03-fildus/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-03-fildus/
 RU: Иллюстрированный lookbook, выбор типа шерсти и памятка первого визита добавляют салону собственный образ за пределами страницы записи.
 EN: An illustrated lookbook, coat selector and first-visit guide give the salon a distinct identity beyond its booking profile.
 
 4. Pet Point Groom — Москва / Груминг
 Карта: https://yandex.ru/maps/org/pet_point_grum/153701721009/
 Текущая страница: https://petpointgroom.clients.site/
-Новый сайт: ./sites/pet-msk-04-pet-point-groom/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-04-pet-point-groom/
 RU: Ботаническая композиция, понятный подбор ухода и подготовка к визиту связывают знакомство с салоном с действующей записью.
 EN: Botanical art direction, an intuitive care selector and preparation guidance connect the salon introduction to its existing booking service.
 
 5. Ваш домашний грумер — Москва / Груминг
 Карта: https://yandex.ru/maps/org/vash_domashniy_grumer/143140613703/
 Текущая страница: https://kosmo-love77.clients.site/
-Новый сайт: ./sites/pet-msk-05-vash-domashniy-grumer/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-05-vash-domashniy-grumer/
 RU: Редакционная структура и интерактивный атлас помогают сформулировать запрос мастеру, сохраняя привычный сервис онлайн-записи.
 EN: An editorial structure and interactive coat atlas help visitors brief the groomer while retaining the existing booking service.
 
 6. My Sports Dog — Москва / Груминг
 Карта: https://yandex.ru/maps/org/my_sports_dog/115171881951/
 Текущая страница: https://vk.link/mysportsdogmsk
-Новый сайт: ./sites/pet-msk-06-my-sports-dog/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-06-my-sports-dog/
 RU: Более выразительный спортивный характер, понятная навигация и подготовка к посещению объединяют несколько направлений бизнеса.
 EN: A stronger sporting identity, clear navigation and a preparation guide bring the business’s different activities together.
 
 7. КусьХвост — Москва / Груминг
 Карта: https://yandex.ru/maps/org/kuskhvost/170283536593/
 Текущая страница: https://kycxboct.su/
-Новый сайт: ./sites/pet-msk-07-kuskhvost/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-07-kuskhvost/
 RU: Новый визуальный концепт дополняет найденный собственный сайт: выделены кошачий уход, породные комплексы и подготовка к посещению.
 EN: A fresh visual concept complements the existing website, highlighting cat care, breed-specific services and visit preparation.
 
 8. Шерстяное настроение — Москва / Груминг
 Карта: https://yandex.ru/maps/org/sherstyanoye_nastroyeniye/147844631045/
 Текущая страница: https://vk.com/woolmoodgroom
-Новый сайт: ./sites/pet-msk-08-sherstyanoe-nastroenie/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-08-sherstyanoe-nastroenie/
 RU: Спокойная журнальная композиция, атлас шерсти и отдельная памятка помогают выбрать задачу ухода перед обращением к мастеру.
 EN: A calm editorial composition, coat atlas and dedicated guide help visitors identify their care needs before contacting the groomer.
 
 9. Gilgroom — Москва / Груминг
 Карта: https://yandex.ru/maps/org/gilgroom/106851602376/
 Текущая страница: https://gilgroom.clients.site/
-Новый сайт: ./sites/pet-msk-09-gilgroom/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-09-gilgroom/
 RU: Зелёная иллюстрационная история и наглядная структура ухода раскрывают студию полнее краткой визитки и ведут к реальным контактам.
 EN: A green illustrated story and clear care structure present the studio beyond a brief listing and lead to real contact channels.
 
 10. Остин груминг — Москва / Груминг
 Карта: https://yandex.ru/maps/org/142883873611/
 Текущая страница: https://ostin-grooming.ru/
-Новый сайт: ./sites/pet-msk-10-ostin-gruming/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-10-ostin-gruming/
 RU: Самостоятельный дизайн-концепт для уже существующего сайта: более цельная подача салона, интерактивный выбор ухода и памятка визита.
 EN: A standalone redesign concept for an existing website, with a cohesive salon presentation, interactive care selection and visit guide.
 
 11. Posobache — Москва / Груминг
 Карта: https://2gis.ru/moscow/firm/70000001088241160
 Текущая страница: https://dikidi.ru/1445098
-Новый сайт: ./sites/pet-msk-11-posobache/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-11-posobache/
 RU: Контрастная редакционная подача, атлас шерсти и подготовка к посещению превращают запись в продолжение знакомства со студией.
 EN: A distinctive editorial presentation, coat atlas and preparation guide make booking a natural continuation of discovering the studio.
 
 12. Салта — Москва / Груминг
 Карта: https://2gis.ru/moscow/firm/70000001032104029
 Текущая страница: https://n108006.yclients.com
-Новый сайт: ./sites/pet-msk-12-salta/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-12-salta/
 RU: Ботанический визуальный стиль и подробный маршрут первого визита дополняют YCLIENTS собственной презентацией салона.
 EN: Botanical art direction and a detailed first-visit journey complement YCLIENTS with the salon’s own presentation.
 
 13. Fluffy Mood — Москва / Груминг
 Карта: https://2gis.ru/moscow/firm/70000001102634219
 Текущая страница: https://fluffy-mood.clients.site/
-Новый сайт: ./sites/pet-msk-13-fluffy-mood/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-13-fluffy-mood/
 RU: Иллюстрированный lookbook, структурированный уход и единый путь к записи собирают разрозненное представительство в цельную историю.
 EN: An illustrated lookbook, structured care information and a single booking journey turn scattered profiles into a cohesive story.
 
 14. Party Dog Grooming — Москва / Груминг
 Карта: https://yandex.ru/maps/org/pati_dog_gruming/237293485977/
 Текущая страница: https://taplink.cc/party_dog_grooming
-Новый сайт: ./sites/pet-msk-14-party-dog-grooming/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-14-party-dog-grooming/
 RU: Живой характер бренда, наглядная навигация и интерактивная подготовка раскрывают студию подробнее страницы со ссылками.
 EN: A lively brand identity, clear navigation and interactive preparation present the studio in greater depth than a link page.
 
 15. Хвост и хвостики — Москва / Груминг
 Карта: https://yandex.ru/maps/org/166674695962/
 Текущая страница: https://hhvostiki.tb.ru/
-Новый сайт: ./sites/pet-msk-15-khvost-i-khvostiki/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-15-khvost-i-khvostiki/
 RU: Концепт развивает найденный сайт: единая презентация груминга и гостиницы, актуальный адрес и понятная подготовка к посещению.
 EN: The concept develops the existing website with a unified grooming and boarding presentation, current address and clear visit preparation.
 
 16. Красивый хвостик — Москва / Груминг
 Карта: https://yandex.ru/maps/org/krasivy_khvostik/186139407889/
 Текущая страница: https://krasiviy-hvostik.ru/
-Новый сайт: ./sites/pet-msk-16-krasivyy-khvostik/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-16-krasivyy-khvostik/
 RU: Новый образ для уже существующего сайта: авторская иллюстрация, атлас шерсти и последовательный путь от знакомства до обращения.
 EN: A fresh identity for an existing website, with original illustration, a coat atlas and a clear journey from discovery to contact.
 
 17. Bubaleo — Москва / Груминг
 Карта: https://yandex.ru/maps/org/41402305095/
 Текущая страница: https://bubaleo.clients.site/
-Новый сайт: ./sites/pet-msk-17-bubaleo/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-17-bubaleo/
 RU: Ботаническая композиция, подробная структура ухода и отдельная памятка первого визита формируют самостоятельный образ салона.
 EN: Botanical composition, structured care information and a dedicated first-visit guide establish the salon’s own identity.
 
 18. Кузярчи — Москва / Груминг
 Карта: https://yandex.ru/maps/org/kuzyarchi/88174182322/
 Текущая страница: https://kuzjarchi.clients.site/
-Новый сайт: ./sites/pet-msk-18-kuzyarchi/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-18-kuzyarchi/
 RU: Энергичная типографика, собственная иллюстрация и интерактивная подготовка делают информацию о салоне проще для нового клиента.
 EN: Energetic typography, original illustration and interactive preparation make the salon easier for new visitors to understand.
 
 19. ВетДок — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001043248041
 Текущая страница: https://vk.com/vetdoc19
-Новый сайт: ./sites/pet-msk-19-vetdok/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-19-vetdok/
 RU: Собственная иллюстрированная презентация вместо одного входа через VK: направления приёма, подготовка и действующие контакты на одной площадке.
 EN: A standalone illustrated presentation beyond VK, bringing practice information, visit preparation and real contact channels together.
 
 20. Юнев-вет — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001100354269
 Текущая страница: https://yunev-vet.ru/
-Новый сайт: ./sites/pet-msk-20-yunev-vet/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-20-yunev-vet/
 RU: Биография врача встроена в более удобную структуру: навигация по направлениям, подготовка к визиту и понятное обращение в кабинет.
 EN: The veterinarian’s background sits within a clearer structure, with service navigation, visit preparation and straightforward contact.
 
 21. ЗооВед — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001042572430
 Текущая страница: https://t.me/zoomagPB
-Новый сайт: ./sites/pet-msk-21-zooved/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-21-zooved/
 RU: Ветеринарный кабинет получает отдельную подачу внутри многофункционального бизнеса: направления приёма, памятка и подтверждённые контакты.
 EN: The veterinary practice gains a distinct presentation within the wider business, with care categories, a visit guide and verified contacts.
 
 22. КиС — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001043229599
 Текущая страница: https://zoocenterkis.ru/
-Новый сайт: ./sites/pet-msk-22-kis/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-22-kis/
 RU: Выразительная иллюстрация и ясная навигация выводят услуги, адрес и подготовку к приёму на первый план.
 EN: Expressive illustration and clear navigation put services, location and visit preparation at the centre of the experience.
 
 23. МобиДок — Москва / Ветеринария
 Карта: https://yandex.ru/maps/org/1778855613/
 Текущая страница: https://mobidok.clients.site/
-Новый сайт: ./sites/pet-msk-23-mobidok/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-23-mobidok/
 RU: Новый самостоятельный концепт с понятной структурой клиники, поиском направления и рабочими переходами к официальным контактам.
 EN: A new standalone concept with a clear practice structure, service navigation and working links to official contact channels.
 
 24. Ветеринарный кабинет №1 — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001043920185
 Текущая страница: https://vetcabinet1.ru/
-Новый сайт: ./sites/pet-msk-24-veterinarnyy-kabinet-1/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-24-veterinarnyy-kabinet-1/
 RU: Чистая современная презентация кабинета: адрес, направления, подготовка и контакт собраны в понятную последовательность.
 EN: A clean contemporary presentation brings location, care categories, preparation and contact into a clear sequence.
 
 25. Гав — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001019241656
 Текущая страница: https://vetgav.com/
-Новый сайт: ./sites/pet-msk-25-gav/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-25-gav/
 RU: Вместо коротких общих блоков — цельная иллюстрированная история клиники, навигация по направлениям и памятка для владельца.
 EN: A coherent illustrated practice story, service navigator and owner checklist replace a short generic introduction.
 
 26. Котофеич — Москва / Ветеринария
 Карта: https://yandex.ru/maps/org/1561215453/
 Текущая страница: https://kotofeich.obiz.ru/
-Новый сайт: ./sites/pet-msk-26-kotofeich/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-26-kotofeich/
 RU: Индивидуальный визуальный язык и осмысленная структура приёма дополняют шаблонное представительство собственным характером клиники.
 EN: A distinctive visual language and thoughtful visit structure give the practice its own identity beyond a directory template.
 
 27. Фунтик-Вет — Москва / Ветеринария
 Карта: https://yandex.ru/maps/org/1710232756/
 Текущая страница: https://funtik-vet.ru/
-Новый сайт: ./sites/pet-msk-27-funtik-vet/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-27-funtik-vet/
 RU: Завершённый чистый интерфейс без технического вывода: услуги, подготовка и связь доступны через понятную навигацию.
 EN: A finished, clean interface without exposed technical output makes services, preparation and contact easier to navigate.
 
 28. Пушистый нянь — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001038051951
 Текущая страница: https://www.pushistyj-nyan.ru/
-Новый сайт: ./sites/pet-msk-28-pushistyy-nyan/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-28-pushistyy-nyan/
 RU: Цельная структура ухода и приёма, иллюстрационная композиция и подготовка к визиту создают согласованную презентацию бизнеса.
 EN: A cohesive care and visit structure, illustrated composition and preparation guide create a consistent business presentation.
 
 29. Оникс — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001058745176
 Текущая страница: https://vk.com/public213248605
-Новый сайт: ./sites/pet-msk-29-oniks/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-29-oniks/
 RU: Кабинет получает собственную небольшую площадку: направления, адрес и контакт доступны без поиска информации в ленте VK.
 EN: The practice gains a compact standalone presence, making care categories, location and contact accessible without searching a VK feed.
 
 30. Ал-вет — Москва / Ветеринария
 Карта: https://2gis.ru/moscow/firm/70000001066639406
 Текущая страница: https://al-vet.clients.site/
-Новый сайт: ./sites/pet-msk-30-al-vet/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-msk-30-al-vet/
 RU: Самостоятельная композиция клиники, навигация по направлениям и интерактивная подготовка раскрывают бизнес подробнее краткой визитки.
 EN: An original practice composition, service navigation and interactive preparation present the business beyond a brief listing.
 
 31. Жужа — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001081181891
 Текущая страница: https://vk.com/groomeralina
-Новый сайт: ./sites/pet-spb-31-zhuzha/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-31-zhuzha/
 RU: Тёплая гуашь и редакционный разворот задают характер Жужи; подбор ухода собирает бриф, а чек-лист готовит к первому визиту.
 EN: Warm gouache and an editorial opening give Zhuzha character; the care selector creates a brief and the checklist prepares visitors for their first appointment.
 
 32. Пушистый рай — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001067916399
 Текущая страница: https://pushistyj-raj.clients.site/
-Новый сайт: ./sites/pet-spb-32-pushistyy-ray/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-32-pushistyy-ray/
 RU: Мягкая панорамная композиция, отдельное объяснение записи кошек и крупных собак, подбор ухода и прямой переход в DIKIDI.
 EN: A soft panoramic composition, clear guidance for cats and large dogs, a care selector and direct access to DIKIDI.
 
 33. Sleek — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001046925496
 Текущая страница: https://taplink.cc/sleek_grooming
-Новый сайт: ./sites/pet-spb-33-sleek/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-33-sleek/
 RU: Выразительная тёмная композиция, выбор филиала и мастера через существующий сервис, подбор запроса и понятная подготовка к уходу.
 EN: A bold dark composition, branch selection and access to the existing booking service, with a care brief and clear preparation guidance.
 
 34. ВойтенкоГрум — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001082057316
 Текущая страница: https://vk.com/grumervoytenko
-Новый сайт: ./sites/pet-spb-34-voytenkogrum/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-34-voytenkogrum/
 RU: Ремесленная графика раскрывает личный характер студии; адрес, условия выезда, бриф и подготовка собраны в последовательную историю.
 EN: Handcrafted graphics express the studio’s personality, bringing location, home-visit information, a care brief and preparation into one coherent story.
 
 35. Губигру — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001102402755
 Текущая страница: https://vk.com/gubigroo
-Новый сайт: ./sites/pet-spb-35-gubigru/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-35-gubigru/
 RU: Собственный цветной образ, понятное объяснение открытого груминга и опубликованных процедур, подбор ухода и существующая запись DIKIDI.
 EN: A distinctive colourful identity explains open grooming and published services, supported by a care selector and existing DIKIDI booking.
 
 36. Prime Groome — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001069148172
 Текущая страница: https://vk.com/prime_groome
-Новый сайт: ./sites/pet-spb-36-prime-groome/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-36-prime-groome/
 RU: Тёмная композиция ателье и авторская иллюстрация подчёркивают работу мастера; бриф и чек-лист помогают подготовить предметный запрос.
 EN: Dark atelier art direction and original illustration highlight the groomer, while a brief builder and checklist help visitors prepare a useful enquiry.
 
 37. Йоркиндом — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001087349107
 Текущая страница: https://dikidi.ru/1032298
-Новый сайт: ./sites/pet-spb-37-yorkindom/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-37-yorkindom/
 RU: Авторская акварельная подача раскрывает салон, основателя и подход к пространству; отдельный акцент сделан на обучении и подготовке.
 EN: An original watercolour presentation introduces the salon, founder and studio layout, with dedicated attention to teaching and visit preparation.
 
 38. Собаки кошки и любовь — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001109957181
 Текущая страница: https://t.me/vash_grumer
-Новый сайт: ./sites/pet-spb-38-sobaki-koshki-i-lyubov/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-38-sobaki-koshki-i-lyubov/
 RU: Единая тёплая презентация студии объединяет адрес и профиль мастера; подбор ухода создаёт бриф перед переходом к действующей записи.
 EN: A warm unified presentation connects the studio’s location and groomer profile; the care selector prepares a brief before opening the existing booking page.
 
 39. Шерстакович — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001099059578
 Текущая страница: https://vk.com/petgrooms
-Новый сайт: ./sites/pet-spb-39-sherstakovich/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-39-sherstakovich/
 RU: Ритмичная тёмная композиция поддерживает название бренда; работы, DIKIDI, подбор запроса и подготовка к визиту связаны одним маршрутом.
 EN: Rhythmic dark art direction reinforces the brand, linking real work, DIKIDI, a care brief and visit preparation in one journey.
 
 40. Луми Грум — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001118556663
 Текущая страница: https://vk.com/lumigrumspb
-Новый сайт: ./sites/pet-spb-40-lumi-grum/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-40-lumi-grum/
 RU: Светлая северная палитра и цельная иллюстрация создают собственный образ студии; адрес, телефон и первый визит легко найти.
 EN: A light northern palette and original illustration give the studio its own identity, with easy access to location, phone and first-visit guidance.
 
 41. Формула шерсти — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001028652410
 Текущая страница: https://vk.com/zoosalonoptikov
-Новый сайт: ./sites/pet-spb-41-formula-shersti/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-41-formula-shersti/
 RU: Графическая композиция превращает «формулу» в рабочий сценарий: тип шерсти, задача и привычки складываются в запрос мастеру.
 EN: A graphic composition turns the “formula” into a practical journey: coat type, care goal and habits become a clear brief for the groomer.
 
 42. Чисто Пушисто — студия Натальи Астрелиной — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001043300321
 Текущая страница: https://mst.link/studiya_gruminga_natali_astrelinoy
-Новый сайт: ./sites/pet-spb-42-chisto-pushisto-studiya-natali-astrelinoy/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-42-chisto-pushisto-studiya-natali-astrelinoy/
 RU: Тёплая редакционная подача представляет студию Натальи Астрелиной, реальные направления ухода и понятный маршрут к существующей записи.
 EN: Warm editorial art direction introduces Natalia Astrelina’s studio, verified care services and a clear route to the existing booking page.
 
 43. Grooming Park — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001029996401
 Текущая страница: https://vk.com/grooming_park
-Новый сайт: ./sites/pet-spb-43-grooming-park/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-43-grooming-park/
 RU: Ботаническая панорама, отдельная логика ухода для собак и кошек, интерактивная подготовка и прямые контакты салона на Парнасе.
 EN: A botanical panorama, care selection for dogs and cats, interactive preparation and direct contact with the Parnas salon.
 
 44. Марти — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001093701017
 Текущая страница: https://vk.com/martistudiogroom
-Новый сайт: ./sites/pet-spb-44-marti/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-44-marti/
 RU: Цветная авторская история создаёт самостоятельный образ Марти; адрес, бриф ухода и подготовка заменяют поиск базовой информации по соцсетям.
 EN: A colourful original story gives Marty a distinct identity, bringing location, a care brief and preparation together beyond social posts.
 
 45. Фурфур грум — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001103382682
 Текущая страница: https://t.me/+79692027284
-Новый сайт: ./sites/pet-spb-45-furfur-grum/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-45-furfur-grum/
 RU: Тактильная иллюстрация и ясное объяснение расположения внутри клиники; услуги согласуются через существующую DIKIDI и реальные контакты.
 EN: Tactile illustration and clear guidance to the studio inside the clinic, with existing DIKIDI booking and verified contact channels.
 
 46. Брюс — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001104906056
 Текущая страница: https://vk.com/club233214545
-Новый сайт: ./sites/pet-spb-46-bryus/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-46-bryus/
 RU: Ремесленная печатная графика поддерживает характер Брюса; посетитель собирает бриф и проходит подготовку перед обращением в студию.
 EN: Handcrafted print art direction supports Bruce’s character, while visitors build a care brief and work through preparation before contacting the studio.
 
 47. Эльфик — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001090351105
 Текущая страница: https://elfik-malaja-buharestskaja-ulitsa.clients.site/
-Новый сайт: ./sites/pet-spb-47-elfik/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-47-elfik/
 RU: Светлая ботаническая композиция, понятный подбор ухода и чек-лист первого визита ведут к действующему YCLIENTS салона.
 EN: Light botanical art direction, an intuitive care selector and first-visit checklist lead to the salon’s existing YCLIENTS booking.
 
 48. Мишки на лапках — Санкт-Петербург / Груминг
 Карта: https://2gis.ru/spb/firm/70000001083734300
 Текущая страница: https://vk.com/olgroom
-Новый сайт: ./sites/pet-spb-48-mishki-na-lapkakh/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-48-mishki-na-lapkakh/
 RU: Текстильная иллюстрация создаёт тёплый собственный образ; уход для собак и кошек, подготовка и контакты собраны в цельную историю.
 EN: A textile-style illustration creates a warm identity, bringing dog and cat care, preparation and contact together in a coherent story.
 
 49. Ламантин — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001093776752
 Текущая страница: https://vk.com/lamantinvet
-Новый сайт: ./sites/pet-spb-49-lamantin/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-49-lamantin/
 RU: Спокойная иллюстрированная композиция, поиск направлений и заметка к визиту дают клинике собственную площадку за пределами VK.
 EN: A calm illustrated composition, service search and visit note give the practice its own presence beyond VK.
 
 50. Бегемот — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001069036456
 Текущая страница: https://vk.com/fedorvet
-Новый сайт: ./sites/pet-spb-50-begemot/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-50-begemot/
 RU: Выразительная редакционная подача, фильтр направлений и подготовка к разговору собирают информацию клиники в понятный маршрут.
 EN: Distinctive editorial art direction, service filtering and preparation guidance turn practice information into a clear visitor journey.
 
 51. Мишель — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001043226153
 Текущая страница: https://vk.com/public197541095
-Новый сайт: ./sites/pet-spb-51-mishel/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-51-mishel/
 RU: Тёплая собственная презентация объединяет сведения о клинике, навигацию по направлениям и заметку для обращения к администратору.
 EN: A warm standalone presentation combines practice information, care navigation and a note for contacting the reception team.
 
 52. ВетГарант — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838747549
 Текущая страница: https://vetgarant-ulitsa-rudneva.clients.site/
-Новый сайт: ./sites/pet-spb-52-vetgarant/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-52-vetgarant/
 RU: Самостоятельный визуальный характер, поиск направлений, чек-лист и подтверждённые контакты раскрывают клинику подробнее краткой визитки.
 EN: A distinctive identity, service search, checklist and verified contacts present the practice beyond a short business listing.
 
 53. Вета — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001025257297
 Текущая страница: https://veterinara.ru/
-Новый сайт: ./sites/pet-spb-53-veta/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-53-veta/
 RU: Завершённая структура вместо недописанных блоков: направления, подготовка и связь с клиникой представлены в чистом современном интерфейсе.
 EN: A complete structure replaces unfinished sections, presenting care categories, preparation and practice contact in a clean contemporary interface.
 
 54. ВетАльянс — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001007270094
 Текущая страница: https://vetalliance.ru/
-Новый сайт: ./sites/pet-spb-54-vetalyans/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-54-vetalyans/
 RU: Современная иллюстрированная подача выводит приём, направления и подготовку вперёд архивных новостей и облегчает обращение в клинику.
 EN: A contemporary illustrated presentation prioritises appointments, care categories and preparation over archived news, making contact easier.
 
 55. Ветлюкс — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838747465
 Текущая страница: https://www.vetlux.ru/
-Новый сайт: ./sites/pet-spb-55-vetlyuks/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-55-vetlyuks/
 RU: Понятная навигация по направлениям, аккуратная презентация клиники и заметка к приёму делают знакомство с кабинетом последовательным.
 EN: Clear care navigation, a polished practice presentation and a visit note create a more coherent first-time experience.
 
 56. Ветостров — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838755764
 Текущая страница: https://www.vetostrov.ru/
-Новый сайт: ./sites/pet-spb-56-vetostrov/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-56-vetostrov/
 RU: Цельная актуальная презентация действующего адреса, поиск направлений и подготовка к визиту помогают избежать путаницы с филиалами.
 EN: A cohesive presentation of the current location, service search and preparation guidance help reduce confusion about branches.
 
 57. Хвостики — кабинет на Сизова — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001094722753
 Текущая страница: https://vk.com/vethvostiki
-Новый сайт: ./sites/pet-spb-57-khvostiki-kabinet-na-sizova/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-57-khvostiki-kabinet-na-sizova/
 RU: Собственная компактная площадка кабинета: адрес, направления и действующие контакты дополнены интерактивной подготовкой к обращению.
 EN: A compact standalone practice presence adds interactive preparation to location, care categories and real contact channels.
 
 58. Зоосфера — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838747841
 Текущая страница: https://fursa73.wixsite.com/zoosphera
-Новый сайт: ./sites/pet-spb-58-zoosfera/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-58-zoosfera/
 RU: Индивидуальная композиция и понятный маршрут от направления к контакту; посетитель может подготовить заметку и вопросы перед визитом.
 EN: Original art direction and a clear journey from care category to contact let visitors prepare notes and questions before their appointment.
 
 59. Невская ветеринарная лечебница — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838770556
 Текущая страница: https://nevvetclinic.ru/
-Новый сайт: ./sites/pet-spb-59-nevskaya-veterinarnaya-lechebnitsa/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-59-nevskaya-veterinarnaya-lechebnitsa/
 RU: Информация для нового клиента поставлена впереди новостной ленты: направления, адрес, заметка к приёму и подготовка доступны сразу.
 EN: New visitor needs take priority over the news feed, with immediate access to care categories, location, a visit note and preparation.
 
 60. Синий крест — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/5348552838539774
 Текущая страница: http://vetkrest.ru/
-Новый сайт: ./sites/pet-spb-60-siniy-krest/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-60-siniy-krest/
 RU: Современная композиция, поиск направлений и доступная подготовка превращают старый информационный формат в более удобное знакомство с клиникой.
 EN: A contemporary composition, service search and accessible preparation turn an older information format into a clearer practice introduction.
 
 61. Ласка — ветеринарный центр в Пушкине — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001026013252
 Текущая страница: https://townface.ru/laska
-Новый сайт: ./sites/pet-spb-61-laska-veterinarnyy-tsentr-v-pushkine/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-61-laska-veterinarnyy-tsentr-v-pushkine/
 RU: Собственный иллюстрированный сайт вместо страницы каталога: направления, адрес и подготовка к обращению собраны вокруг клиники в Пушкине.
 EN: A standalone illustrated website replaces the directory-only presentation, bringing care categories, location and preparation together for the Pushkin practice.
 
 62. VivaVet — Санкт-Петербург / Ветеринария
 Карта: https://2gis.ru/spb/firm/70000001007271144
 Текущая страница: https://infovivavet.wixsite.com/mysite
-Новый сайт: ./sites/pet-spb-62-vivavet/
+Новый сайт: https://bazelezz.github.io/pet-business-websites-62/sites/pet-spb-62-vivavet/
 RU: Тёплый семейный образ дополнен поиском направлений, заметкой к визиту и прямыми контактами — для более понятного первого обращения.
 EN: A warm family-oriented identity is complemented by service search, a visit note and direct contacts for a clearer first enquiry.

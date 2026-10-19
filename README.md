@@ -4,6 +4,8 @@ A collection of 62 independent website concepts for grooming studios and veterin
 
 ## Browse
 
+[Open the public catalogue](https://bazelezz.github.io/pet-business-websites-62/) · [Full link list](https://bazelezz.github.io/pet-business-websites-62/LINKS.txt)
+
 Open `index.html` for the searchable catalogue. Each business has a complete standalone website at `sites/<slug>/`, with its own local images, styles, fonts and scripts.
 
 The catalogue includes links to the business map listing, its existing website or social page, and the new concept. Brief descriptions of the improvements are provided in Russian and English. Public catalogue data is available in `data/sites.json`.
